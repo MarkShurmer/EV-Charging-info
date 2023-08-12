@@ -1,0 +1,17 @@
+.filterBar {
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.filterItem {
+  margin: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.filterInput {
+  margin: 0.5rem;
+  width: 8rem;
+}

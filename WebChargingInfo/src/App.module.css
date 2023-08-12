@@ -1,0 +1,23 @@
+.wrapper {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.pageHeader {
+  background-color: rgb(75, 70, 74);
+  color: #fff;
+  padding: 0.25rem;
+  text-align: center;
+}
+
+.pageFooter {
+  background-color: rgb(75, 70, 74);
+  color: #fff;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.pageBody {
+  padding: 0.5rem;
+}
